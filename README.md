@@ -14,10 +14,10 @@ Participate in discussions around best practices and how to best leverage Copilo
 - Video recording of the kick off meeting: [[Link to video](https://mckinsey.zoom.us/rec/share/R-aAsKZKnsw5LgUNoJQ6LjOG8A1K5xeKY_aIJAE0QTzoKNLpo2_bDcMG0NXc4q-9.ENnpt_6ylKhtO6WX?startTime=1739196435000&pwd=s-jmNA4nDqvwXsY2pTDF7Ngh-2AQB7XZ)]
 
 **Known Issues:**
-We are aware that the PR customization feature is not functioning as expected at the moment. This issue impacts users wanted to create PR customizations in organizations such as Internal, Private, and Playground. Jim is currently investigating the problem and working on a resolution.
+- We are aware that the PR customization feature is not functioning as expected at the moment. This issue impacts users wanted to create PR customizations in organizations such as Internal, Private, and Playground. Jim is currently investigating the problem and working on a resolution.
 
 **Knowledge Base Publishing Process**
-If you've created a knowledge base and are ready to publish, please reach out to me directly. In order to proceed with the publication, I will need the following details:
+<br> If you've created a knowledge base and are ready to publish, please reach out to me directly. In order to proceed with the publication, I will need the following details:
 1.	The name of the KB repository
 2.	The name you'd like for the KB
 3.	(Optional) A brief description of the KB
